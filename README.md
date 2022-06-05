@@ -11,7 +11,7 @@ Faster Object Detection
 
 ## From Other Notes:
 
-* HaloNets [paper](https://arxiv.org/abs/2103.12731);  [code-attentionl layer](https://github.com/lucidrains/halonet-pytorch)
+* HaloNets [paper](https://arxiv.org/abs/2103.12731);  [papers with code](https://paperswithcode.com/paper/scaling-local-self-attention-for-parameter)
 * CSPDarknet53 [PyTorch Code](https://rwightman.github.io/pytorch-image-models/models/csp-darknet/) 
 
 
@@ -33,6 +33,7 @@ YOLOv4 = 62 FPS on V100 (608x608 @ 43.5 AP)
 6. Find or write training routine for detectors
    1. [Hugging Face]()
    2. [Ross Wightman](https://github.com/rwightman/pytorch-image-models)
+   3. [theAIGuysCode](https://github.com/theAIGuysCode/tensorflow-yolov4-tflite?ref=morioh.com&utm_source=morioh.com)
 7. Stich in new backbones into above, attempt to train on a dataset
 8. Train baseline classifiers at 224 resolution
 
