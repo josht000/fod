@@ -47,3 +47,5 @@ YOLOv4 = 62 FPS on V100 (608x608 @ 43.5 AP)
  * CmBN (Cross mini Batch Normalization) vs Synchornized BN 
  * DropBlock Regularization
  * FCOS anchor free detector [paper](https://arxiv.org/pdf/2006.09214.pdf)
+   - FCOS [code](https://github.com/tianzhi0549/FCOS)
+   - FOCS_PLUS [code](https://github.com/yqyao/FCOS_PLUS)
